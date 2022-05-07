@@ -5,7 +5,7 @@
     "frames": [
         {
             "file_path": "./train/rgb/1646625026.774003200_front.png",
-            "depth_file_path": "./train/depth/1646625026774003200_front_depth.png",
+            "depth_file_path": "./train/depth/1646625026.774003200_front_depth.png",
             "fx": 1546.752685546875,
             "fy": 1546.40576171875,
             "cx": 1439.5,
@@ -39,7 +39,7 @@
         },
         {
             "file_path": "./train/rgb/1646625029.614003200_front.png",
-            "depth_file_path": "./train/depth/1646625029614003200_front_depth.png",
+            "depth_file_path": "./train/depth/1646625029.614003200_front_depth.png",
             "fx": 1546.752685546875,
             "fy": 1546.40576171875,
             "cx": 1439.5,
@@ -73,7 +73,7 @@
         },
         {
             "file_path": "./train/rgb/1646625032.134003200_front.png",
-            "depth_file_path": "./train/depth/1646625032134003200_front_depth.png",
+            "depth_file_path": "./train/depth/1646625032.134003200_front_depth.png",
             "fx": 1546.752685546875,
             "fy": 1546.40576171875,
             "cx": 1439.5,
@@ -107,7 +107,7 @@
         },
         {
             "file_path": "./train/rgb/1646625034.974003200_front.png",
-            "depth_file_path": "./train/depth/1646625034974003200_front_depth.png",
+            "depth_file_path": "./train/depth/1646625034.974003200_front_depth.png",
             "fx": 1546.752685546875,
             "fy": 1546.40576171875,
             "cx": 1439.5,
@@ -141,7 +141,7 @@
         },
         {
             "file_path": "./train/rgb/1646625037.974003200_front.png",
-            "depth_file_path": "./train/depth/1646625037974003200_front_depth.png",
+            "depth_file_path": "./train/depth/1646625037.974003200_front_depth.png",
             "fx": 1546.752685546875,
             "fy": 1546.40576171875,
             "cx": 1439.5,
@@ -175,7 +175,7 @@
         },
         {
             "file_path": "./train/rgb/1646625039.214003200_front.png",
-            "depth_file_path": "./train/depth/1646625039214003200_front_depth.png",
+            "depth_file_path": "./train/depth/1646625039.214003200_front_depth.png",
             "fx": 1546.752685546875,
             "fy": 1546.40576171875,
             "cx": 1439.5,
@@ -209,7 +209,7 @@
         },
         {
             "file_path": "./train/rgb/1646625040.894003200_front.png",
-            "depth_file_path": "./train/depth/1646625040894003200_front_depth.png",
+            "depth_file_path": "./train/depth/1646625040.894003200_front_depth.png",
             "fx": 1546.752685546875,
             "fy": 1546.40576171875,
             "cx": 1439.5,
@@ -243,7 +243,7 @@
         },
         {
             "file_path": "./train/rgb/1646625043.454003200_front.png",
-            "depth_file_path": "./train/depth/1646625043454003200_front_depth.png",
+            "depth_file_path": "./train/depth/1646625043.454003200_front_depth.png",
             "fx": 1546.752685546875,
             "fy": 1546.40576171875,
             "cx": 1439.5,
@@ -277,7 +277,7 @@
         },
         {
             "file_path": "./train/rgb/1646625045.654003200_front.png",
-            "depth_file_path": "./train/depth/1646625045654003200_front_depth.png",
+            "depth_file_path": "./train/depth/1646625045.654003200_front_depth.png",
             "fx": 1546.752685546875,
             "fy": 1546.40576171875,
             "cx": 1439.5,
@@ -311,7 +311,7 @@
         },
         {
             "file_path": "./train/rgb/1646625046.854003200_front.png",
-            "depth_file_path": "./train/depth/1646625046854003200_front_depth.png",
+            "depth_file_path": "./train/depth/1646625046.854003200_front_depth.png",
             "fx": 1546.752685546875,
             "fy": 1546.40576171875,
             "cx": 1439.5,
@@ -345,7 +345,7 @@
         },
         {
             "file_path": "./train/rgb/1646625048.054003200_front.png",
-            "depth_file_path": "./train/depth/1646625048054003200_front_depth.png",
+            "depth_file_path": "./train/depth/1646625048.054003200_front_depth.png",
             "fx": 1546.752685546875,
             "fy": 1546.40576171875,
             "cx": 1439.5,
@@ -379,7 +379,7 @@
         },
         {
             "file_path": "./train/rgb/1646625050.174003200_front.png",
-            "depth_file_path": "./train/depth/1646625050174003200_front_depth.png",
+            "depth_file_path": "./train/depth/1646625050.174003200_front_depth.png",
             "fx": 1546.752685546875,
             "fy": 1546.40576171875,
             "cx": 1439.5,
@@ -413,7 +413,7 @@
         },
         {
             "file_path": "./train/rgb/1646625052.414003200_front.png",
-            "depth_file_path": "./train/depth/1646625052414003200_front_depth.png",
+            "depth_file_path": "./train/depth/1646625052.414003200_front_depth.png",
             "fx": 1546.752685546875,
             "fy": 1546.40576171875,
             "cx": 1439.5,
@@ -447,7 +447,7 @@
         },
         {
             "file_path": "./train/rgb/1646625054.734003200_front.png",
-            "depth_file_path": "./train/depth/1646625054734003200_front_depth.png",
+            "depth_file_path": "./train/depth/1646625054.734003200_front_depth.png",
             "fx": 1546.752685546875,
             "fy": 1546.40576171875,
             "cx": 1439.5,
@@ -481,7 +481,7 @@
         },
         {
             "file_path": "./train/rgb/1646625056.934003200_front.png",
-            "depth_file_path": "./train/depth/1646625056934003200_front_depth.png",
+            "depth_file_path": "./train/depth/1646625056.934003200_front_depth.png",
             "fx": 1546.752685546875,
             "fy": 1546.40576171875,
             "cx": 1439.5,
@@ -515,7 +515,7 @@
         },
         {
             "file_path": "./train/rgb/1646625059.174003200_front.png",
-            "depth_file_path": "./train/depth/1646625059174003200_front_depth.png",
+            "depth_file_path": "./train/depth/1646625059.174003200_front_depth.png",
             "fx": 1546.752685546875,
             "fy": 1546.40576171875,
             "cx": 1439.5,
@@ -549,7 +549,7 @@
         },
         {
             "file_path": "./train/rgb/1646625060.574003200_front.png",
-            "depth_file_path": "./train/depth/1646625060574003200_front_depth.png",
+            "depth_file_path": "./train/depth/1646625060.574003200_front_depth.png",
             "fx": 1546.752685546875,
             "fy": 1546.40576171875,
             "cx": 1439.5,
@@ -583,7 +583,7 @@
         },
         {
             "file_path": "./train/rgb/1646625062.094003200_front.png",
-            "depth_file_path": "./train/depth/1646625062094003200_front_depth.png",
+            "depth_file_path": "./train/depth/1646625062.094003200_front_depth.png",
             "fx": 1546.752685546875,
             "fy": 1546.40576171875,
             "cx": 1439.5,

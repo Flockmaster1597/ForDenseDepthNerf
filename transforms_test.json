@@ -5,7 +5,7 @@
     "frames": [
         {
             "file_path": "./test/rgb/1646625064.214003200_front.png",
-            "depth_file_path": "./test/depth/1646625064214003200_front_depth.png",
+            "depth_file_path": "./test/depth/1646625064.214003200_front_depth.png",
             "fx": 1546.752685546875,
             "fy": 1546.40576171875,
             "cx": 1439.5,
@@ -39,7 +39,7 @@
         },
         {
             "file_path": "./test/rgb/1646625066.214003200_front.png",
-            "depth_file_path": "./test/depth/1646625066214003200_front_depth.png",
+            "depth_file_path": "./test/depth/1646625066.214003200_front_depth.png",
             "fx": 1546.752685546875,
             "fy": 1546.40576171875,
             "cx": 1439.5,
@@ -73,7 +73,7 @@
         },
         {
             "file_path": "./test/rgb/1646625067.134003200_front.png",
-            "depth_file_path": "./test/depth/1646625067134003200_front_depth.png",
+            "depth_file_path": "./test/depth/1646625067.134003200_front_depth.png",
             "fx": 1546.752685546875,
             "fy": 1546.40576171875,
             "cx": 1439.5,
@@ -107,7 +107,7 @@
         },
         {
             "file_path": "./test/rgb/1646625068.254003200_front.png",
-            "depth_file_path": "./test/depth/1646625068254003200_front_depth.png",
+            "depth_file_path": "./test/depth/1646625068.254003200_front_depth.png",
             "fx": 1546.752685546875,
             "fy": 1546.40576171875,
             "cx": 1439.5,
